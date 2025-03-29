@@ -1,0 +1,3340 @@
+[{
+  "_id": 122,
+  "title": "Boomerang (1992)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 142,
+  "title": "Shadows (Cienie) (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 265,
+  "title": "Like Water for Chocolate (Como agua para chocolate) (1992)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 298,
+  "title": "Pushing Hands (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 347,
+  "title": "Bitter Moon (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 373,
+  "title": "Red Rock West (1992)",
+  "genres": "Thriller"
+},
+{
+  "_id": 522,
+  "title": "Romper Stomper (1992)",
+  "genres": "Action|Drama"
+},
+{
+  "_id": 526,
+  "title": "Savage Nights (Nuits fauves, Les) (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 565,
+  "title": "Cronos (1992)",
+  "genres": "Horror"
+},
+{
+  "_id": 586,
+  "title": "Home Alone (1990)",
+  "genres": "Children's|Comedy"
+},
+{
+  "_id": 587,
+  "title": "Ghost (1990)",
+  "genres": "Comedy|Romance|Thriller"
+},
+{
+  "_id": 588,
+  "title": "Aladdin (1992)",
+  "genres": "Animation|Children's|Comedy|Musical"
+},
+{
+  "_id": 589,
+  "title": "Terminator 2: Judgment Day (1991)",
+  "genres": "Action|Sci-Fi|Thriller"
+},
+{
+  "_id": 590,
+  "title": "Dances with Wolves (1990)",
+  "genres": "Adventure|Drama|Western"
+},
+{
+  "_id": 592,
+  "title": "Batman (1989)",
+  "genres": "Action|Adventure|Crime|Drama"
+},
+{
+  "_id": 593,
+  "title": "Silence of the Lambs, The (1991)",
+  "genres": "Drama|Thriller"
+},
+{
+  "_id": 595,
+  "title": "Beauty and the Beast (1991)",
+  "genres": "Animation|Children's|Musical"
+},
+{
+  "_id": 597,
+  "title": "Pretty Woman (1990)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 620,
+  "title": "Scream of Stone (Schrei aus Stein) (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 625,
+  "title": "Asfour Stah (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 699,
+  "title": "To Cross the Rubicon (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 701,
+  "title": "Daens (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 709,
+  "title": "Oliver & Company (1988)",
+  "genres": "Animation|Children's"
+},
+{
+  "_id": 723,
+  "title": "Two Friends (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 751,
+  "title": "Careful (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 752,
+  "title": "Vermont Is For Lovers (1992)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 758,
+  "title": "Jar, The (Khomreh) (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 771,
+  "title": "Vie est belle, La (Life is Rosey) (1987)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 772,
+  "title": "Quartier Mozart (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 789,
+  "title": "I, Worst of All (Yo, la peor de todas) (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 792,
+  "title": "Hungarian Fairy Tale, A (1987)",
+  "genres": "Fantasy"
+},
+{
+  "_id": 797,
+  "title": "Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 822,
+  "title": "Hedd Wyn (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 853,
+  "title": "Dingo (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 855,
+  "title": "Every Other Weekend (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 861,
+  "title": "Supercop (1992)",
+  "genres": "Action|Thriller"
+},
+{
+  "_id": 868,
+  "title": "Death in Brunswick (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 890,
+  "title": "Baton Rouge (1988)",
+  "genres": "Thriller"
+},
+{
+  "_id": 895,
+  "title": "Venice/Venice (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 980,
+  "title": "In the Line of Duty 2 (1987)",
+  "genres": "Action"
+},
+{
+  "_id": 1027,
+  "title": "Robin Hood: Prince of Thieves (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 1036,
+  "title": "Die Hard (1988)",
+  "genres": "Action|Thriller"
+},
+{
+  "_id": 1037,
+  "title": "Lawnmower Man, The (1992)",
+  "genres": "Action|Sci-Fi|Thriller"
+},
+{
+  "_id": 1079,
+  "title": "Fish Called Wanda, A (1988)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1088,
+  "title": "Dirty Dancing (1987)",
+  "genres": "Musical|Romance"
+},
+{
+  "_id": 1089,
+  "title": "Reservoir Dogs (1992)",
+  "genres": "Crime|Thriller"
+},
+{
+  "_id": 1090,
+  "title": "Platoon (1986)",
+  "genres": "Drama|War"
+},
+{
+  "_id": 1091,
+  "title": "Weekend at Bernie's (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1092,
+  "title": "Basic Instinct (1992)",
+  "genres": "Mystery|Thriller"
+},
+{
+  "_id": 1093,
+  "title": "Doors, The (1991)",
+  "genres": "Drama|Musical"
+},
+{
+  "_id": 1094,
+  "title": "Crying Game, The (1992)",
+  "genres": "Drama|Romance|War"
+},
+{
+  "_id": 1095,
+  "title": "Glengarry Glen Ross (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 1100,
+  "title": "Days of Thunder (1990)",
+  "genres": "Action|Romance"
+},
+{
+  "_id": 1101,
+  "title": "Top Gun (1986)",
+  "genres": "Action|Romance"
+},
+{
+  "_id": 1107,
+  "title": "Loser (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1126,
+  "title": "Drop Dead Fred (1991)",
+  "genres": "Comedy|Fantasy"
+},
+{
+  "_id": 1127,
+  "title": "Abyss, The (1989)",
+  "genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+  "_id": 1131,
+  "title": "Jean de Florette (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 1132,
+  "title": "Manon of the Spring (Manon des sources) (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 1155,
+  "title": "Invitation, The (Zaproszenie) (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 1169,
+  "title": "American Dream (1990)",
+  "genres": "Documentary"
+},
+{
+  "_id": 1171,
+  "title": "Bob Roberts (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1172,
+  "title": "Cinema Paradiso (1988)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 1173,
+  "title": "Cook the Thief His Wife & Her Lover, The (1989)",
+  "genres": "Drama"
+},
+{
+  "_id": 1175,
+  "title": "Delicatessen (1991)",
+  "genres": "Comedy|Sci-Fi"
+},
+{
+  "_id": 1176,
+  "title": "Double Life of Veronique, The (La Double Vie de V�ronique) (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 1177,
+  "title": "Enchanted April (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 1179,
+  "title": "Grifters, The (1990)",
+  "genres": "Crime|Drama|Film-Noir"
+},
+{
+  "_id": 1180,
+  "title": "Hear My Song (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1184,
+  "title": "Mediterraneo (1991)",
+  "genres": "Comedy|War"
+},
+{
+  "_id": 1185,
+  "title": "My Left Foot (1989)",
+  "genres": "Drama"
+},
+{
+  "_id": 1186,
+  "title": "Sex, Lies, and Videotape (1989)",
+  "genres": "Drama"
+},
+{
+  "_id": 1187,
+  "title": "Passion Fish (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 1188,
+  "title": "Strictly Ballroom (1992)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 1189,
+  "title": "Thin Blue Line, The (1988)",
+  "genres": "Documentary"
+},
+{
+  "_id": 1190,
+  "title": "Tie Me Up! Tie Me Down! (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 1191,
+  "title": "Madonna: Truth or Dare (1991)",
+  "genres": "Documentary"
+},
+{
+  "_id": 1192,
+  "title": "Paris Is Burning (1990)",
+  "genres": "Documentary"
+},
+{
+  "_id": 1197,
+  "title": "Princess Bride, The (1987)",
+  "genres": "Action|Adventure|Comedy|Romance"
+},
+{
+  "_id": 1199,
+  "title": "Brazil (1985)",
+  "genres": "Sci-Fi"
+},
+{
+  "_id": 1200,
+  "title": "Aliens (1986)",
+  "genres": "Action|Sci-Fi|Thriller|War"
+},
+{
+  "_id": 1202,
+  "title": "Withnail and I (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1205,
+  "title": "Transformers: The Movie, The (1986)",
+  "genres": "Action|Animation|Children's|Sci-Fi|Thriller|War"
+},
+{
+  "_id": 1211,
+  "title": "Wings of Desire (Der Himmel �ber Berlin) (1987)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 1213,
+  "title": "GoodFellas (1990)",
+  "genres": "Crime|Drama"
+},
+{
+  "_id": 1216,
+  "title": "Big Blue, The (Le Grand Bleu) (1988)",
+  "genres": "Adventure|Romance"
+},
+{
+  "_id": 1217,
+  "title": "Ran (1985)",
+  "genres": "Drama|War"
+},
+{
+  "_id": 1218,
+  "title": "Killer, The (Die xue shuang xiong) (1989)",
+  "genres": "Action|Thriller"
+},
+{
+  "_id": 1222,
+  "title": "Full Metal Jacket (1987)",
+  "genres": "Action|Drama|War"
+},
+{
+  "_id": 1223,
+  "title": "Grand Day Out, A (1992)",
+  "genres": "Animation|Comedy"
+},
+{
+  "_id": 1224,
+  "title": "Henry V (1989)",
+  "genres": "Drama|War"
+},
+{
+  "_id": 1225,
+  "title": "Amadeus (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 1227,
+  "title": "Once Upon a Time in America (1984)",
+  "genres": "Crime|Drama|Thriller"
+},
+{
+  "_id": 1236,
+  "title": "Trust (1990)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 1240,
+  "title": "Terminator, The (1984)",
+  "genres": "Action|Sci-Fi|Thriller"
+},
+{
+  "_id": 1241,
+  "title": "Braindead (1992)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 1242,
+  "title": "Glory (1989)",
+  "genres": "Action|Drama|War"
+},
+{
+  "_id": 1243,
+  "title": "Rosencrantz and Guildenstern Are Dead (1990)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 1245,
+  "title": "Miller's Crossing (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 1246,
+  "title": "Dead Poets Society (1989)",
+  "genres": "Drama"
+},
+{
+  "_id": 1249,
+  "title": "Nikita (La Femme Nikita) (1990)",
+  "genres": "Thriller"
+},
+{
+  "_id": 1255,
+  "title": "Bad Taste (1987)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 1257,
+  "title": "Better Off Dead... (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1259,
+  "title": "Stand by Me (1986)",
+  "genres": "Adventure|Comedy|Drama"
+},
+{
+  "_id": 1261,
+  "title": "Evil Dead II (Dead By Dawn) (1987)",
+  "genres": "Action|Adventure|Comedy|Horror"
+},
+{
+  "_id": 1266,
+  "title": "Unforgiven (1992)",
+  "genres": "Western"
+},
+{
+  "_id": 1268,
+  "title": "Pump Up the Volume (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 1270,
+  "title": "Back to the Future (1985)",
+  "genres": "Comedy|Sci-Fi"
+},
+{
+  "_id": 1271,
+  "title": "Fried Green Tomatoes (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 1273,
+  "title": "Down by Law (1986)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 1274,
+  "title": "Akira (1988)",
+  "genres": "Adventure|Animation|Sci-Fi|Thriller"
+},
+{
+  "_id": 1275,
+  "title": "Highlander (1986)",
+  "genres": "Action|Adventure"
+},
+{
+  "_id": 1277,
+  "title": "Cyrano de Bergerac (1990)",
+  "genres": "Action|Drama|Romance"
+},
+{
+  "_id": 1279,
+  "title": "Night on Earth (1991)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 1280,
+  "title": "Raise the Red Lantern (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 1285,
+  "title": "Heathers (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1288,
+  "title": "This Is Spinal Tap (1984)",
+  "genres": "Comedy|Drama|Musical"
+},
+{
+  "_id": 1290,
+  "title": "Some Kind of Wonderful (1987)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 1291,
+  "title": "Indiana Jones and the Last Crusade (1989)",
+  "genres": "Action|Adventure"
+},
+{
+  "_id": 1295,
+  "title": "Unbearable Lightness of Being, The (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 1296,
+  "title": "Room with a View, A (1986)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 1297,
+  "title": "Real Genius (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1299,
+  "title": "Killing Fields, The (1984)",
+  "genres": "Drama|War"
+},
+{
+  "_id": 1300,
+  "title": "My Life as a Dog (Mitt liv som hund) (1985)",
+  "genres": "Drama"
+},
+{
+  "_id": 1302,
+  "title": "Field of Dreams (1989)",
+  "genres": "Drama"
+},
+{
+  "_id": 1305,
+  "title": "Paris, Texas (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 1306,
+  "title": "Until the End of the World (Bis ans Ende der Welt) (1991)",
+  "genres": "Drama|Sci-Fi"
+},
+{
+  "_id": 1307,
+  "title": "When Harry Met Sally... (1989)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 1320,
+  "title": "Alien� (1992)",
+  "genres": "Action|Horror|Sci-Fi|Thriller"
+},
+{
+  "_id": 1322,
+  "title": "Amityville 1992: It's About Time (1992)",
+  "genres": "Horror"
+},
+{
+  "_id": 1328,
+  "title": "Amityville Curse, The (1990)",
+  "genres": "Horror"
+},
+{
+  "_id": 1330,
+  "title": "April Fool's Day (1986)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 1332,
+  "title": "Believers, The (1987)",
+  "genres": "Horror|Thriller"
+},
+{
+  "_id": 1336,
+  "title": "Body Parts (1991)",
+  "genres": "Horror"
+},
+{
+  "_id": 1339,
+  "title": "Bram Stoker's Dracula (1992)",
+  "genres": "Horror|Romance"
+},
+{
+  "_id": 1342,
+  "title": "Candyman (1992)",
+  "genres": "Horror"
+},
+{
+  "_id": 1343,
+  "title": "Cape Fear (1991)",
+  "genres": "Thriller"
+},
+{
+  "_id": 1347,
+  "title": "Nightmare on Elm Street, A (1984)",
+  "genres": "Horror"
+},
+{
+  "_id": 1349,
+  "title": "Nosferatu a Venezia (1986)",
+  "genres": "Horror"
+},
+{
+  "_id": 1370,
+  "title": "Die Hard 2 (1990)",
+  "genres": "Action|Thriller"
+},
+{
+  "_id": 1372,
+  "title": "Star Trek VI: The Undiscovered Country (1991)",
+  "genres": "Action|Adventure|Sci-Fi"
+},
+{
+  "_id": 1373,
+  "title": "Star Trek V: The Final Frontier (1989)",
+  "genres": "Action|Adventure|Sci-Fi"
+},
+{
+  "_id": 1375,
+  "title": "Star Trek III: The Search for Spock (1984)",
+  "genres": "Action|Adventure|Sci-Fi"
+},
+{
+  "_id": 1376,
+  "title": "Star Trek IV: The Voyage Home (1986)",
+  "genres": "Action|Adventure|Sci-Fi"
+},
+{
+  "_id": 1377,
+  "title": "Batman Returns (1992)",
+  "genres": "Action|Adventure|Comedy|Crime"
+},
+{
+  "_id": 1378,
+  "title": "Young Guns (1988)",
+  "genres": "Action|Comedy|Western"
+},
+{
+  "_id": 1379,
+  "title": "Young Guns II (1990)",
+  "genres": "Action|Comedy|Western"
+},
+{
+  "_id": 1382,
+  "title": "Marked for Death (1990)",
+  "genres": "Action|Drama"
+},
+{
+  "_id": 1385,
+  "title": "Under Siege (1992)",
+  "genres": "Action"
+},
+{
+  "_id": 1394,
+  "title": "Raising Arizona (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1395,
+  "title": "Tin Men (1987)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 1396,
+  "title": "Sneakers (1992)",
+  "genres": "Crime|Drama|Sci-Fi"
+},
+{
+  "_id": 1408,
+  "title": "Last of the Mohicans, The (1992)",
+  "genres": "Action|Romance|War"
+},
+{
+  "_id": 1524,
+  "title": "Turning, The (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 1570,
+  "title": "Tetsuo II: Body Hammer (1992)",
+  "genres": "Sci-Fi"
+},
+{
+  "_id": 1610,
+  "title": "Hunt for Red October, The (1990)",
+  "genres": "Action|Thriller"
+},
+{
+  "_id": 1611,
+  "title": "My Own Private Idaho (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 1674,
+  "title": "Witness (1985)",
+  "genres": "Drama|Romance|Thriller"
+},
+{
+  "_id": 1785,
+  "title": "King of New York (1990)",
+  "genres": "Action|Crime"
+},
+{
+  "_id": 1959,
+  "title": "Out of Africa (1985)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 1960,
+  "title": "Last Emperor, The (1987)",
+  "genres": "Drama|War"
+},
+{
+  "_id": 1961,
+  "title": "Rain Man (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 1962,
+  "title": "Driving Miss Daisy (1989)",
+  "genres": "Drama"
+},
+{
+  "_id": 1965,
+  "title": "Repo Man (1984)",
+  "genres": "Comedy|Sci-Fi"
+},
+{
+  "_id": 1966,
+  "title": "Metropolitan (1990)",
+  "genres": "Comedy"
+},
+{
+  "_id": 1967,
+  "title": "Labyrinth (1986)",
+  "genres": "Adventure|Children's|Fantasy"
+},
+{
+  "_id": 1968,
+  "title": "Breakfast Club, The (1985)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 1969,
+  "title": "Nightmare on Elm Street Part 2: Freddy's Revenge, A (1985)",
+  "genres": "Horror"
+},
+{
+  "_id": 1970,
+  "title": "Nightmare on Elm Street 3: Dream Warriors, A (1987)",
+  "genres": "Horror"
+},
+{
+  "_id": 1971,
+  "title": "Nightmare on Elm Street 4: The Dream Master, A (1988)",
+  "genres": "Horror"
+},
+{
+  "_id": 1972,
+  "title": "Nightmare on Elm Street 5: The Dream Child, A (1989)",
+  "genres": "Horror"
+},
+{
+  "_id": 1973,
+  "title": "Freddy's Dead: The Final Nightmare (1991)",
+  "genres": "Horror"
+},
+{
+  "_id": 1977,
+  "title": "Friday the 13th: The Final Chapter (1984)",
+  "genres": "Horror"
+},
+{
+  "_id": 1978,
+  "title": "Friday the 13th Part V: A New Beginning (1985)",
+  "genres": "Horror"
+},
+{
+  "_id": 1979,
+  "title": "Friday the 13th Part VI: Jason Lives (1986)",
+  "genres": "Horror"
+},
+{
+  "_id": 1980,
+  "title": "Friday the 13th Part VII: The New Blood (1988)",
+  "genres": "Horror"
+},
+{
+  "_id": 1981,
+  "title": "Friday the 13th Part VIII: Jason Takes Manhattan (1989)",
+  "genres": "Horror"
+},
+{
+  "_id": 1985,
+  "title": "Halloween 4: The Return of Michael Myers (1988)",
+  "genres": "Horror"
+},
+{
+  "_id": 1986,
+  "title": "Halloween 5: The Revenge of Michael Myers (1989)",
+  "genres": "Horror"
+},
+{
+  "_id": 1988,
+  "title": "Hello Mary Lou: Prom Night II (1987)",
+  "genres": "Horror"
+},
+{
+  "_id": 1989,
+  "title": "Prom Night III: The Last Kiss (1989)",
+  "genres": "Horror"
+},
+{
+  "_id": 1990,
+  "title": "Prom Night IV: Deliver Us From Evil (1992)",
+  "genres": "Horror"
+},
+{
+  "_id": 1991,
+  "title": "Child's Play (1988)",
+  "genres": "Horror"
+},
+{
+  "_id": 1992,
+  "title": "Child's Play 2 (1990)",
+  "genres": "Horror"
+},
+{
+  "_id": 1993,
+  "title": "Child's Play 3 (1992)",
+  "genres": "Horror"
+},
+{
+  "_id": 1995,
+  "title": "Poltergeist II: The Other Side (1986)",
+  "genres": "Horror|Thriller"
+},
+{
+  "_id": 1996,
+  "title": "Poltergeist III (1988)",
+  "genres": "Horror|Thriller"
+},
+{
+  "_id": 1999,
+  "title": "Exorcist III, The (1990)",
+  "genres": "Horror"
+},
+{
+  "_id": 2000,
+  "title": "Lethal Weapon (1987)",
+  "genres": "Action|Comedy|Crime|Drama"
+},
+{
+  "_id": 2001,
+  "title": "Lethal Weapon 2 (1989)",
+  "genres": "Action|Comedy|Crime|Drama"
+},
+{
+  "_id": 2002,
+  "title": "Lethal Weapon 3 (1992)",
+  "genres": "Action|Comedy|Crime|Drama"
+},
+{
+  "_id": 2003,
+  "title": "Gremlins (1984)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 2004,
+  "title": "Gremlins 2: The New Batch (1990)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 2005,
+  "title": "Goonies, The (1985)",
+  "genres": "Adventure|Children's|Fantasy"
+},
+{
+  "_id": 2011,
+  "title": "Back to the Future Part II (1989)",
+  "genres": "Comedy|Sci-Fi"
+},
+{
+  "_id": 2012,
+  "title": "Back to the Future Part III (1990)",
+  "genres": "Comedy|Sci-Fi|Western"
+},
+{
+  "_id": 2020,
+  "title": "Dangerous Liaisons (1988)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 2021,
+  "title": "Dune (1984)",
+  "genres": "Fantasy|Sci-Fi"
+},
+{
+  "_id": 2022,
+  "title": "Last Temptation of Christ, The (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 2023,
+  "title": "Godfather: Part III, The (1990)",
+  "genres": "Action|Crime|Drama"
+},
+{
+  "_id": 2024,
+  "title": "Rapture, The (1991)",
+  "genres": "Drama|Mystery"
+},
+{
+  "_id": 2033,
+  "title": "Black Cauldron, The (1985)",
+  "genres": "Animation|Children's"
+},
+{
+  "_id": 2039,
+  "title": "Cheetah (1989)",
+  "genres": "Adventure|Children's"
+},
+{
+  "_id": 2046,
+  "title": "Flight of the Navigator (1986)",
+  "genres": "Adventure|Children's|Sci-Fi"
+},
+{
+  "_id": 2048,
+  "title": "Great Mouse Detective, The (1986)",
+  "genres": "Animation|Children's"
+},
+{
+  "_id": 2053,
+  "title": "Honey, I Blew Up the Kid (1992)",
+  "genres": "Children's|Comedy|Sci-Fi"
+},
+{
+  "_id": 2054,
+  "title": "Honey, I Shrunk the Kids (1989)",
+  "genres": "Adventure|Children's|Comedy|Fantasy|Sci-Fi"
+},
+{
+  "_id": 2064,
+  "title": "Roger & Me (1989)",
+  "genres": "Comedy|Documentary"
+},
+{
+  "_id": 2065,
+  "title": "Purple Rose of Cairo, The (1985)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 2069,
+  "title": "Trip to Bountiful, The (1985)",
+  "genres": "Drama"
+},
+{
+  "_id": 2072,
+  "title": "'burbs, The (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2073,
+  "title": "Fandango (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2076,
+  "title": "Blue Velvet (1986)",
+  "genres": "Drama|Mystery"
+},
+{
+  "_id": 2077,
+  "title": "Journey of Natty Gann, The (1985)",
+  "genres": "Adventure|Children's"
+},
+{
+  "_id": 2081,
+  "title": "Little Mermaid, The (1989)",
+  "genres": "Animation|Children's|Comedy|Musical|Romance"
+},
+{
+  "_id": 2082,
+  "title": "Mighty Ducks, The (1992)",
+  "genres": "Children's|Comedy"
+},
+{
+  "_id": 2083,
+  "title": "Muppet Christmas Carol, The (1992)",
+  "genres": "Children's|Musical"
+},
+{
+  "_id": 2084,
+  "title": "Newsies (1992)",
+  "genres": "Children's|Musical"
+},
+{
+  "_id": 2086,
+  "title": "One Magic Christmas (1985)",
+  "genres": "Drama|Fantasy"
+},
+{
+  "_id": 2089,
+  "title": "Rescuers Down Under, The (1990)",
+  "genres": "Animation|Children's"
+},
+{
+  "_id": 2093,
+  "title": "Return to Oz (1985)",
+  "genres": "Adventure|Children's|Fantasy|Sci-Fi"
+},
+{
+  "_id": 2094,
+  "title": "Rocketeer, The (1991)",
+  "genres": "Action|Adventure|Sci-Fi"
+},
+{
+  "_id": 2100,
+  "title": "Splash (1984)",
+  "genres": "Comedy|Fantasy|Romance"
+},
+{
+  "_id": 2108,
+  "title": "L.A. Story (1991)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 2112,
+  "title": "Grand Canyon (1991)",
+  "genres": "Crime|Drama"
+},
+{
+  "_id": 2113,
+  "title": "Graveyard Shift (1990)",
+  "genres": "Horror|Thriller"
+},
+{
+  "_id": 2115,
+  "title": "Indiana Jones and the Temple of Doom (1984)",
+  "genres": "Action|Adventure"
+},
+{
+  "_id": 2117,
+  "title": "Nineteen Eighty-Four (1984)",
+  "genres": "Drama|Sci-Fi"
+},
+{
+  "_id": 2119,
+  "title": "Maximum Overdrive (1986)",
+  "genres": "Horror"
+},
+{
+  "_id": 2122,
+  "title": "Children of the Corn (1984)",
+  "genres": "Horror|Thriller"
+},
+{
+  "_id": 2123,
+  "title": "All Dogs Go to Heaven (1989)",
+  "genres": "Animation|Children's"
+},
+{
+  "_id": 2124,
+  "title": "Addams Family, The (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2133,
+  "title": "Adventures in Babysitting (1987)",
+  "genres": "Adventure|Comedy"
+},
+{
+  "_id": 2134,
+  "title": "Weird Science (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2141,
+  "title": "American Tail, An (1986)",
+  "genres": "Animation|Children's|Comedy"
+},
+{
+  "_id": 2142,
+  "title": "American Tail: Fievel Goes West, An (1991)",
+  "genres": "Animation|Children's|Comedy"
+},
+{
+  "_id": 2143,
+  "title": "Legend (1985)",
+  "genres": "Adventure|Fantasy|Romance"
+},
+{
+  "_id": 2144,
+  "title": "Sixteen Candles (1984)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2145,
+  "title": "Pretty in Pink (1986)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 2146,
+  "title": "St. Elmo's Fire (1985)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 2147,
+  "title": "Clan of the Cave Bear, The (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2148,
+  "title": "House (1986)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 2149,
+  "title": "House II: The Second Story (1987)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 2151,
+  "title": "Gods Must Be Crazy II, The (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2159,
+  "title": "Henry: Portrait of a Serial Killer (1990)",
+  "genres": "Crime|Horror"
+},
+{
+  "_id": 2161,
+  "title": "NeverEnding Story, The (1984)",
+  "genres": "Adventure|Children's|Fantasy"
+},
+{
+  "_id": 2162,
+  "title": "NeverEnding Story II: The Next Chapter, The (1990)",
+  "genres": "Adventure|Children's|Fantasy"
+},
+{
+  "_id": 2164,
+  "title": "Surf Nazis Must Die (1987)",
+  "genres": "Drama"
+},
+{
+  "_id": 2173,
+  "title": "Navigator: A Mediaeval Odyssey, The (1988)",
+  "genres": "Adventure|Fantasy|Sci-Fi"
+},
+{
+  "_id": 2174,
+  "title": "Beetlejuice (1988)",
+  "genres": "Comedy|Fantasy"
+},
+{
+  "_id": 2193,
+  "title": "Willow (1988)",
+  "genres": "Action|Adventure|Fantasy"
+},
+{
+  "_id": 2194,
+  "title": "Untouchables, The (1987)",
+  "genres": "Action|Crime|Drama"
+},
+{
+  "_id": 2242,
+  "title": "Grandview, U.S.A. (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 2243,
+  "title": "Broadcast News (1987)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 2244,
+  "title": "Allnighter, The (1987)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 2245,
+  "title": "Working Girl (1988)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2246,
+  "title": "Stars and Bars (1988)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2247,
+  "title": "Married to the Mob (1988)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2248,
+  "title": "Say Anything... (1989)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 2249,
+  "title": "My Blue Heaven (1990)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2250,
+  "title": "Men Don't Leave (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 2251,
+  "title": "Cabinet of Dr. Ramirez, The (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2252,
+  "title": "Hero (1992)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2253,
+  "title": "Toys (1992)",
+  "genres": "Action|Comedy|Fantasy"
+},
+{
+  "_id": 2257,
+  "title": "No Small Affair (1984)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 2258,
+  "title": "Master Ninja I (1984)",
+  "genres": "Action"
+},
+{
+  "_id": 2259,
+  "title": "Blame It on Rio (1984)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 2260,
+  "title": "Wisdom (1986)",
+  "genres": "Action|Crime"
+},
+{
+  "_id": 2261,
+  "title": "One Crazy Summer (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2262,
+  "title": "About Last Night... (1986)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 2263,
+  "title": "Seventh Sign, The (1988)",
+  "genres": "Thriller"
+},
+{
+  "_id": 2264,
+  "title": "We're No Angels (1989)",
+  "genres": "Drama"
+},
+{
+  "_id": 2265,
+  "title": "Nothing But Trouble (1991)",
+  "genres": "Adventure|Comedy"
+},
+{
+  "_id": 2266,
+  "title": "Butcher's Wife, The (1991)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 2267,
+  "title": "Mortal Thoughts (1991)",
+  "genres": "Mystery|Thriller"
+},
+{
+  "_id": 2268,
+  "title": "Few Good Men, A (1992)",
+  "genres": "Crime|Drama"
+},
+{
+  "_id": 2283,
+  "title": "Sheltering Sky, The (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 2289,
+  "title": "Player, The (1992)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2291,
+  "title": "Edward Scissorhands (1990)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 2302,
+  "title": "My Cousin Vinny (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2311,
+  "title": "2010 (1984)",
+  "genres": "Mystery|Sci-Fi"
+},
+{
+  "_id": 2312,
+  "title": "Children of a Lesser God (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2327,
+  "title": "Tales from the Darkside: The Movie (1990)",
+  "genres": "Horror"
+},
+{
+  "_id": 2344,
+  "title": "Runaway Train (1985)",
+  "genres": "Action|Adventure|Drama|Thriller"
+},
+{
+  "_id": 2345,
+  "title": "Desert Bloom (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2347,
+  "title": "Pope of Greenwich Village, The (1984)",
+  "genres": "Action"
+},
+{
+  "_id": 2348,
+  "title": "Sid and Nancy (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2349,
+  "title": "Mona Lisa (1986)",
+  "genres": "Comedy|Thriller"
+},
+{
+  "_id": 2350,
+  "title": "Heart Condition (1990)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2364,
+  "title": "Godzilla (Gojira) (1984)",
+  "genres": "Action|Sci-Fi"
+},
+{
+  "_id": 2368,
+  "title": "King Kong Lives (1986)",
+  "genres": "Action|Adventure|Horror"
+},
+{
+  "_id": 2369,
+  "title": "Desperately Seeking Susan (1985)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 2370,
+  "title": "Emerald Forest, The (1985)",
+  "genres": "Action|Adventure|Drama"
+},
+{
+  "_id": 2371,
+  "title": "Fletch (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2372,
+  "title": "Fletch Lives (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2373,
+  "title": "Red Sonja (1985)",
+  "genres": "Action|Adventure"
+},
+{
+  "_id": 2374,
+  "title": "Gung Ho (1986)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2375,
+  "title": "Money Pit, The (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2376,
+  "title": "View to a Kill, A (1985)",
+  "genres": "Action"
+},
+{
+  "_id": 2377,
+  "title": "Lifeforce (1985)",
+  "genres": "Horror|Sci-Fi"
+},
+{
+  "_id": 2378,
+  "title": "Police Academy (1984)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2379,
+  "title": "Police Academy 2: Their First Assignment (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2380,
+  "title": "Police Academy 3: Back in Training (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2381,
+  "title": "Police Academy 4: Citizens on Patrol (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2382,
+  "title": "Police Academy 5: Assignment: Miami Beach (1988)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2383,
+  "title": "Police Academy 6: City Under Siege (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2397,
+  "title": "Mass Appeal (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 2399,
+  "title": "Santa Claus: The Movie (1985)",
+  "genres": "Adventure|Children's|Fantasy"
+},
+{
+  "_id": 2400,
+  "title": "Prancer (1989)",
+  "genres": "Children's|Drama"
+},
+{
+  "_id": 2401,
+  "title": "Pale Rider (1985)",
+  "genres": "Western"
+},
+{
+  "_id": 2402,
+  "title": "Rambo: First Blood Part II (1985)",
+  "genres": "Action|War"
+},
+{
+  "_id": 2404,
+  "title": "Rambo III (1988)",
+  "genres": "Action|War"
+},
+{
+  "_id": 2405,
+  "title": "Jewel of the Nile, The (1985)",
+  "genres": "Action|Adventure|Comedy|Romance"
+},
+{
+  "_id": 2406,
+  "title": "Romancing the Stone (1984)",
+  "genres": "Action|Adventure|Comedy|Romance"
+},
+{
+  "_id": 2407,
+  "title": "Cocoon (1985)",
+  "genres": "Comedy|Sci-Fi"
+},
+{
+  "_id": 2408,
+  "title": "Cocoon: The Return (1988)",
+  "genres": "Comedy|Sci-Fi"
+},
+{
+  "_id": 2411,
+  "title": "Rocky IV (1985)",
+  "genres": "Action|Drama"
+},
+{
+  "_id": 2412,
+  "title": "Rocky V (1990)",
+  "genres": "Action|Drama"
+},
+{
+  "_id": 2413,
+  "title": "Clue (1985)",
+  "genres": "Comedy|Mystery"
+},
+{
+  "_id": 2414,
+  "title": "Young Sherlock Holmes (1985)",
+  "genres": "Action|Adventure|Mystery"
+},
+{
+  "_id": 2415,
+  "title": "Violets Are Blue... (1986)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 2416,
+  "title": "Back to School (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2417,
+  "title": "Heartburn (1986)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2418,
+  "title": "Nothing in Common (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2419,
+  "title": "Extremities (1986)",
+  "genres": "Drama|Thriller"
+},
+{
+  "_id": 2420,
+  "title": "Karate Kid, The (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 2421,
+  "title": "Karate Kid, Part II, The (1986)",
+  "genres": "Action|Adventure|Drama"
+},
+{
+  "_id": 2422,
+  "title": "Karate Kid III, The (1989)",
+  "genres": "Action|Adventure|Drama"
+},
+{
+  "_id": 2423,
+  "title": "Christmas Vacation (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2449,
+  "title": "Garbage Pail Kids Movie, The (1987)",
+  "genres": "Adventure|Children's"
+},
+{
+  "_id": 2450,
+  "title": "Howard the Duck (1986)",
+  "genres": "Adventure|Children's|Sci-Fi"
+},
+{
+  "_id": 2451,
+  "title": "Gate, The (1987)",
+  "genres": "Horror"
+},
+{
+  "_id": 2452,
+  "title": "Gate II: Trespassers, The (1990)",
+  "genres": "Horror"
+},
+{
+  "_id": 2453,
+  "title": "Boy Who Could Fly, The (1986)",
+  "genres": "Drama|Fantasy"
+},
+{
+  "_id": 2455,
+  "title": "Fly, The (1986)",
+  "genres": "Horror|Sci-Fi"
+},
+{
+  "_id": 2456,
+  "title": "Fly II, The (1989)",
+  "genres": "Horror|Sci-Fi"
+},
+{
+  "_id": 2457,
+  "title": "Running Scared (1986)",
+  "genres": "Action|Comedy"
+},
+{
+  "_id": 2458,
+  "title": "Armed and Dangerous (1986)",
+  "genres": "Comedy|Crime"
+},
+{
+  "_id": 2460,
+  "title": "Texas Chainsaw Massacre 2, The (1986)",
+  "genres": "Horror"
+},
+{
+  "_id": 2461,
+  "title": "Leatherface: Texas Chainsaw Massacre III (1990)",
+  "genres": "Horror"
+},
+{
+  "_id": 2463,
+  "title": "Ruthless People (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2464,
+  "title": "Trick or Treat (1986)",
+  "genres": "Horror"
+},
+{
+  "_id": 2465,
+  "title": "Deadly Friend (1986)",
+  "genres": "Horror"
+},
+{
+  "_id": 2466,
+  "title": "Belizaire the Cajun (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2467,
+  "title": "Name of the Rose, The (1986)",
+  "genres": "Mystery"
+},
+{
+  "_id": 2468,
+  "title": "Jumpin' Jack Flash (1986)",
+  "genres": "Action|Comedy|Romance|Thriller"
+},
+{
+  "_id": 2469,
+  "title": "Peggy Sue Got Married (1986)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 2470,
+  "title": "Crocodile Dundee (1986)",
+  "genres": "Adventure|Comedy"
+},
+{
+  "_id": 2471,
+  "title": "Crocodile Dundee II (1988)",
+  "genres": "Adventure|Comedy"
+},
+{
+  "_id": 2472,
+  "title": "Tough Guys (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2473,
+  "title": "Soul Man (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2474,
+  "title": "Color of Money, The (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2475,
+  "title": "52 Pick-Up (1986)",
+  "genres": "Action|Mystery|Thriller"
+},
+{
+  "_id": 2476,
+  "title": "Heartbreak Ridge (1986)",
+  "genres": "Action|War"
+},
+{
+  "_id": 2477,
+  "title": "Firewalker (1986)",
+  "genres": "Adventure"
+},
+{
+  "_id": 2478,
+  "title": "Three Amigos! (1986)",
+  "genres": "Comedy|Western"
+},
+{
+  "_id": 2513,
+  "title": "Pet Sematary (1989)",
+  "genres": "Horror"
+},
+{
+  "_id": 2514,
+  "title": "Pet Sematary II (1992)",
+  "genres": "Horror"
+},
+{
+  "_id": 2551,
+  "title": "Dead Ringers (1988)",
+  "genres": "Drama|Thriller"
+},
+{
+  "_id": 2582,
+  "title": "Twin Dragons (Shuang long hui) (1992)",
+  "genres": "Action|Comedy"
+},
+{
+  "_id": 2613,
+  "title": "Night of the Comet (1984)",
+  "genres": "Action|Horror|Sci-Fi"
+},
+{
+  "_id": 2614,
+  "title": "Chopping Mall (a.k.a. Killbots) (1986)",
+  "genres": "Action|Horror|Sci-Fi"
+},
+{
+  "_id": 2615,
+  "title": "My Science Project (1985)",
+  "genres": "Adventure|Sci-Fi"
+},
+{
+  "_id": 2616,
+  "title": "Dick Tracy (1990)",
+  "genres": "Action|Crime"
+},
+{
+  "_id": 2643,
+  "title": "Superman IV: The Quest for Peace (1987)",
+  "genres": "Action|Adventure|Sci-Fi"
+},
+{
+  "_id": 2655,
+  "title": "Howling II: Your Sister Is a Werewolf (1985)",
+  "genres": "Horror"
+},
+{
+  "_id": 2699,
+  "title": "Arachnophobia (1990)",
+  "genres": "Action|Comedy|Sci-Fi|Thriller"
+},
+{
+  "_id": 2704,
+  "title": "Lovers on the Bridge, The (Les Amants du Pont-Neuf) (1991)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 2716,
+  "title": "Ghostbusters (1984)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 2717,
+  "title": "Ghostbusters II (1989)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 2733,
+  "title": "Vibes (1988)",
+  "genres": "Adventure|Comedy"
+},
+{
+  "_id": 2734,
+  "title": "Mosquito Coast, The (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2735,
+  "title": "Golden Child, The (1986)",
+  "genres": "Action|Adventure|Comedy"
+},
+{
+  "_id": 2736,
+  "title": "Brighton Beach Memoirs (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2737,
+  "title": "Assassination (1987)",
+  "genres": "Action"
+},
+{
+  "_id": 2738,
+  "title": "Crimes of the Heart (1986)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2739,
+  "title": "Color Purple, The (1985)",
+  "genres": "Drama"
+},
+{
+  "_id": 2740,
+  "title": "Kindred, The (1986)",
+  "genres": "Horror"
+},
+{
+  "_id": 2741,
+  "title": "No Mercy (1986)",
+  "genres": "Action|Thriller"
+},
+{
+  "_id": 2742,
+  "title": "M�nage (Tenue de soir�e) (1986)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2743,
+  "title": "Native Son (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2744,
+  "title": "Otello (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2745,
+  "title": "Mission, The (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2746,
+  "title": "Little Shop of Horrors (1986)",
+  "genres": "Comedy|Horror|Musical"
+},
+{
+  "_id": 2748,
+  "title": "Allan Quartermain and the Lost City of Gold (1987)",
+  "genres": "Action|Adventure"
+},
+{
+  "_id": 2749,
+  "title": "Morning After, The (1986)",
+  "genres": "Drama|Mystery"
+},
+{
+  "_id": 2750,
+  "title": "Radio Days (1987)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2751,
+  "title": "From the Hip (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2752,
+  "title": "Outrageous Fortune (1987)",
+  "genres": "Comedy|Mystery"
+},
+{
+  "_id": 2753,
+  "title": "Bedroom Window, The (1987)",
+  "genres": "Thriller"
+},
+{
+  "_id": 2754,
+  "title": "Deadtime Stories (1987)",
+  "genres": "Horror"
+},
+{
+  "_id": 2755,
+  "title": "Light of Day (1987)",
+  "genres": "Drama"
+},
+{
+  "_id": 2756,
+  "title": "Wanted: Dead or Alive (1987)",
+  "genres": "Action"
+},
+{
+  "_id": 2758,
+  "title": "Plenty (1985)",
+  "genres": "Drama"
+},
+{
+  "_id": 2786,
+  "title": "Haunted Honeymoon (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2787,
+  "title": "Cat's Eye (1985)",
+  "genres": "Horror"
+},
+{
+  "_id": 2794,
+  "title": "European Vacation (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2796,
+  "title": "Funny Farm (1988)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2797,
+  "title": "Big (1988)",
+  "genres": "Comedy|Fantasy"
+},
+{
+  "_id": 2798,
+  "title": "Problem Child (1990)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2799,
+  "title": "Problem Child 2 (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2800,
+  "title": "Little Nemo: Adventures in Slumberland (1992)",
+  "genres": "Animation|Children's"
+},
+{
+  "_id": 2802,
+  "title": "Tequila Sunrise (1988)",
+  "genres": "Action|Romance|Thriller"
+},
+{
+  "_id": 2808,
+  "title": "Universal Soldier (1992)",
+  "genres": "Action|Sci-Fi"
+},
+{
+  "_id": 2815,
+  "title": "Iron Eagle (1986)",
+  "genres": "Action|War"
+},
+{
+  "_id": 2816,
+  "title": "Iron Eagle II (1988)",
+  "genres": "Action|War"
+},
+{
+  "_id": 2817,
+  "title": "Aces: Iron Eagle III (1992)",
+  "genres": "Action|War"
+},
+{
+  "_id": 2822,
+  "title": "Medicine Man (1992)",
+  "genres": "Adventure|Romance"
+},
+{
+  "_id": 2846,
+  "title": "Adventures of Milo and Otis, The (1986)",
+  "genres": "Children's"
+},
+{
+  "_id": 2849,
+  "title": "Queens Logic (1991)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2852,
+  "title": "Soldier's Story, A (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 2859,
+  "title": "Stop Making Sense (1984)",
+  "genres": "Documentary"
+},
+{
+  "_id": 2867,
+  "title": "Fright Night (1985)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 2868,
+  "title": "Fright Night Part II (1989)",
+  "genres": "Horror"
+},
+{
+  "_id": 2879,
+  "title": "Operation Condor (Feiying gaiwak) (1990)",
+  "genres": "Action|Adventure|Comedy"
+},
+{
+  "_id": 2880,
+  "title": "Operation Condor 2 (Longxiong hudi) (1990)",
+  "genres": "Action|Adventure|Comedy"
+},
+{
+  "_id": 2897,
+  "title": "And the Ship Sails On (E la nave va) (1984)",
+  "genres": "Comedy|War"
+},
+{
+  "_id": 2900,
+  "title": "Monkey Shines (1988)",
+  "genres": "Horror|Sci-Fi"
+},
+{
+  "_id": 2903,
+  "title": "Psycho III (1986)",
+  "genres": "Horror|Thriller"
+},
+{
+  "_id": 2916,
+  "title": "Total Recall (1990)",
+  "genres": "Action|Adventure|Sci-Fi|Thriller"
+},
+{
+  "_id": 2918,
+  "title": "Ferris Bueller's Day Off (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2926,
+  "title": "Hairspray (1988)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 2928,
+  "title": "Razor's Edge, The (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 2931,
+  "title": "Time of the Gypsies (Dom za vesanje) (1989)",
+  "genres": "Drama"
+},
+{
+  "_id": 2934,
+  "title": "Love Bewitched, A (El Amor Brujo) (1986)",
+  "genres": "Musical"
+},
+{
+  "_id": 2938,
+  "title": "Man Facing Southeast (Hombre Mirando al Sudeste) (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 2943,
+  "title": "Indochine (1992)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 2945,
+  "title": "Mike's Murder (1984)",
+  "genres": "Mystery"
+},
+{
+  "_id": 2953,
+  "title": "Home Alone 2: Lost in New York (1992)",
+  "genres": "Children's|Comedy"
+},
+{
+  "_id": 2956,
+  "title": "Someone to Watch Over Me (1987)",
+  "genres": "Action|Crime|Thriller"
+},
+{
+  "_id": 2972,
+  "title": "Red Sorghum (Hong Gao Liang) (1987)",
+  "genres": "Drama|War"
+},
+{
+  "_id": 2973,
+  "title": "Crimes and Misdemeanors (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 2982,
+  "title": "Guardian, The (1990)",
+  "genres": "Horror|Thriller"
+},
+{
+  "_id": 2985,
+  "title": "Robocop (1987)",
+  "genres": "Action|Crime|Sci-Fi"
+},
+{
+  "_id": 2986,
+  "title": "Robocop 2 (1990)",
+  "genres": "Action|Crime|Sci-Fi"
+},
+{
+  "_id": 2987,
+  "title": "Who Framed Roger Rabbit? (1988)",
+  "genres": "Adventure|Animation|Film-Noir"
+},
+{
+  "_id": 2990,
+  "title": "Licence to Kill (1989)",
+  "genres": "Action"
+},
+{
+  "_id": 2992,
+  "title": "Rawhead Rex (1986)",
+  "genres": "Horror|Thriller"
+},
+{
+  "_id": 3013,
+  "title": "Bride of Re-Animator (1990)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 3017,
+  "title": "Creepshow 2 (1987)",
+  "genres": "Horror"
+},
+{
+  "_id": 3018,
+  "title": "Re-Animator (1985)",
+  "genres": "Horror"
+},
+{
+  "_id": 3019,
+  "title": "Drugstore Cowboy (1989)",
+  "genres": "Crime|Drama"
+},
+{
+  "_id": 3026,
+  "title": "Slaughterhouse (1987)",
+  "genres": "Horror"
+},
+{
+  "_id": 3027,
+  "title": "Slaughterhouse 2 (1988)",
+  "genres": "Horror"
+},
+{
+  "_id": 3031,
+  "title": "Repossessed (1990)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3033,
+  "title": "Spaceballs (1987)",
+  "genres": "Comedy|Sci-Fi"
+},
+{
+  "_id": 3041,
+  "title": "Meatballs Part II (1984)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3042,
+  "title": "Meatballs III (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3043,
+  "title": "Meatballs 4 (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3044,
+  "title": "Dead Again (1991)",
+  "genres": "Mystery|Romance|Thriller"
+},
+{
+  "_id": 3045,
+  "title": "Peter's Friends (1992)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 3060,
+  "title": "Commitments, The (1991)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 3063,
+  "title": "Poison Ivy (1992)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3067,
+  "title": "Women on the Verge of a Nervous Breakdown (1988)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 3070,
+  "title": "Adventures of Buckaroo Bonzai Across the 8th Dimension, The (1984)",
+  "genres": "Adventure|Comedy|Sci-Fi"
+},
+{
+  "_id": 3071,
+  "title": "Stand and Deliver (1987)",
+  "genres": "Drama"
+},
+{
+  "_id": 3072,
+  "title": "Moonstruck (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3087,
+  "title": "Scrooged (1988)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3090,
+  "title": "Matewan (1987)",
+  "genres": "Drama"
+},
+{
+  "_id": 3094,
+  "title": "Maurice (1987)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3098,
+  "title": "Natural, The (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 3100,
+  "title": "River Runs Through It, A (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 3101,
+  "title": "Fatal Attraction (1987)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3102,
+  "title": "Jagged Edge (1985)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3103,
+  "title": "Stanley & Iris (1990)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3104,
+  "title": "Midnight Run (1988)",
+  "genres": "Action|Adventure|Comedy|Crime"
+},
+{
+  "_id": 3105,
+  "title": "Awakenings (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 3106,
+  "title": "Come See the Paradise (1990)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3107,
+  "title": "Backdraft (1991)",
+  "genres": "Action|Drama"
+},
+{
+  "_id": 3108,
+  "title": "Fisher King, The (1991)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 3109,
+  "title": "River, The (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 3110,
+  "title": "Country (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 3111,
+  "title": "Places in the Heart (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 3112,
+  "title": "'Night Mother (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 3120,
+  "title": "Distinguished Gentleman, The (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3123,
+  "title": "Spring Fever USA (a.k.a. Lauderdale) (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3130,
+  "title": "Bonfire of the Vanities (1990)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3138,
+  "title": "Stealing Home (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 3141,
+  "title": "Two Jakes, The (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 3142,
+  "title": "U2: Rattle and Hum (1988)",
+  "genres": "Documentary|Musical"
+},
+{
+  "_id": 3166,
+  "title": "Brenda Starr (1989)",
+  "genres": "Adventure"
+},
+{
+  "_id": 3169,
+  "title": "Falcon and the Snowman, The (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 3197,
+  "title": "Presidio, The (1988)",
+  "genres": "Action"
+},
+{
+  "_id": 3203,
+  "title": "Dead Calm (1989)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3206,
+  "title": "Against All Odds (1984)",
+  "genres": "Romance"
+},
+{
+  "_id": 3211,
+  "title": "Cry in the Dark, A (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 3214,
+  "title": "American Flyers (1985)",
+  "genres": "Drama"
+},
+{
+  "_id": 3218,
+  "title": "Poison (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 3219,
+  "title": "Pacific Heights (1990)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3222,
+  "title": "Carmen (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 3223,
+  "title": "Zed & Two Noughts, A (1985)",
+  "genres": "Drama"
+},
+{
+  "_id": 3243,
+  "title": "Encino Man (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3246,
+  "title": "Malcolm X (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 3247,
+  "title": "Sister Act (1992)",
+  "genres": "Comedy|Crime"
+},
+{
+  "_id": 3249,
+  "title": "Hand That Rocks the Cradle, The (1992)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3251,
+  "title": "Agnes of God (1985)",
+  "genres": "Drama|Mystery"
+},
+{
+  "_id": 3252,
+  "title": "Scent of a Woman (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 3253,
+  "title": "Wayne's World (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3255,
+  "title": "League of Their Own, A (1992)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 3256,
+  "title": "Patriot Games (1992)",
+  "genres": "Action|Thriller"
+},
+{
+  "_id": 3257,
+  "title": "Bodyguard, The (1992)",
+  "genres": "Action|Drama|Romance|Thriller"
+},
+{
+  "_id": 3258,
+  "title": "Death Becomes Her (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3259,
+  "title": "Far and Away (1992)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3260,
+  "title": "Howards End (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 3261,
+  "title": "Singles (1992)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 3262,
+  "title": "Twin Peaks: Fire Walk with Me (1992)",
+  "genres": "Drama|Mystery"
+},
+{
+  "_id": 3263,
+  "title": "White Men Can't Jump (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3264,
+  "title": "Buffy the Vampire Slayer (1992)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 3265,
+  "title": "Hard-Boiled (Lashou shentan) (1992)",
+  "genres": "Action|Crime"
+},
+{
+  "_id": 3266,
+  "title": "Man Bites Dog (C'est arriv� pr�s de chez vous) (1992)",
+  "genres": "Action|Comedy|Crime|Drama"
+},
+{
+  "_id": 3267,
+  "title": "Mariachi, El (1992)",
+  "genres": "Action|Thriller"
+},
+{
+  "_id": 3268,
+  "title": "Stop! Or My Mom Will Shoot (1992)",
+  "genres": "Action|Comedy"
+},
+{
+  "_id": 3269,
+  "title": "Forever Young (1992)",
+  "genres": "Adventure|Romance|Sci-Fi"
+},
+{
+  "_id": 3270,
+  "title": "Cutting Edge, The (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 3271,
+  "title": "Of Mice and Men (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 3272,
+  "title": "Bad Lieutenant (1992)",
+  "genres": "Crime|Drama"
+},
+{
+  "_id": 3274,
+  "title": "Single White Female (1992)",
+  "genres": "Action"
+},
+{
+  "_id": 3308,
+  "title": "Flamingo Kid, The (1984)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 3329,
+  "title": "Year My Voice Broke, The (1987)",
+  "genres": "Drama"
+},
+{
+  "_id": 3338,
+  "title": "For All Mankind (1989)",
+  "genres": "Documentary"
+},
+{
+  "_id": 3342,
+  "title": "Birdy (1984)",
+  "genres": "Drama|War"
+},
+{
+  "_id": 3343,
+  "title": "And God Created Woman (1988)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 3358,
+  "title": "Defending Your Life (1991)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 3360,
+  "title": "Hoosiers (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 3361,
+  "title": "Bull Durham (1988)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3370,
+  "title": "Betrayed (1988)",
+  "genres": "Drama|Thriller"
+},
+{
+  "_id": 3374,
+  "title": "Daughters of the Dust (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 3385,
+  "title": "Volunteers (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3386,
+  "title": "JFK (1991)",
+  "genres": "Drama|Mystery"
+},
+{
+  "_id": 3387,
+  "title": "Who's Harry Crumb? (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3388,
+  "title": "Harry and the Hendersons (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3389,
+  "title": "Let's Get Harry (1986)",
+  "genres": "Action|Adventure"
+},
+{
+  "_id": 3390,
+  "title": "Shanghai Surprise (1986)",
+  "genres": "Adventure"
+},
+{
+  "_id": 3391,
+  "title": "Who's That Girl? (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3392,
+  "title": "She-Devil (1989)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3393,
+  "title": "Date with an Angel (1987)",
+  "genres": "Comedy|Fantasy"
+},
+{
+  "_id": 3394,
+  "title": "Blind Date (1987)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 3395,
+  "title": "Nadine (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3398,
+  "title": "Muppets Take Manhattan, The (1984)",
+  "genres": "Children's|Comedy"
+},
+{
+  "_id": 3399,
+  "title": "Sesame Street Presents Follow That Bird (1985)",
+  "genres": "Children's|Comedy"
+},
+{
+  "_id": 3401,
+  "title": "Baby... Secret of the Lost Legend (1985)",
+  "genres": "Adventure|Sci-Fi"
+},
+{
+  "_id": 3402,
+  "title": "Turtle Diary (1985)",
+  "genres": "Drama"
+},
+{
+  "_id": 3412,
+  "title": "Bear, The (1988)",
+  "genres": "Adventure"
+},
+{
+  "_id": 3418,
+  "title": "Thelma & Louise (1991)",
+  "genres": "Action|Drama"
+},
+{
+  "_id": 3422,
+  "title": "She's Gotta Have It (1986)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 3423,
+  "title": "School Daze (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 3424,
+  "title": "Do the Right Thing (1989)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 3425,
+  "title": "Mo' Better Blues (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 3426,
+  "title": "Jungle Fever (1991)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3429,
+  "title": "Creature Comforts (1990)",
+  "genres": "Animation|Comedy"
+},
+{
+  "_id": 3432,
+  "title": "Death Wish 3 (1985)",
+  "genres": "Action|Drama"
+},
+{
+  "_id": 3433,
+  "title": "Death Wish 4: The Crackdown (1987)",
+  "genres": "Action|Drama"
+},
+{
+  "_id": 3436,
+  "title": "Dying Young (1991)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3437,
+  "title": "Cool as Ice (1991)",
+  "genres": "Drama"
+},
+{
+  "_id": 3438,
+  "title": "Teenage Mutant Ninja Turtles (1990)",
+  "genres": "Action|Children's|Fantasy"
+},
+{
+  "_id": 3439,
+  "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+  "genres": "Action|Children's|Fantasy"
+},
+{
+  "_id": 3441,
+  "title": "Red Dawn (1984)",
+  "genres": "Action|War"
+},
+{
+  "_id": 3442,
+  "title": "Band of the Hand (1986)",
+  "genres": "Action"
+},
+{
+  "_id": 3443,
+  "title": "Born American (1986)",
+  "genres": "Action|Drama|Thriller"
+},
+{
+  "_id": 3444,
+  "title": "Bloodsport (1988)",
+  "genres": "Action"
+},
+{
+  "_id": 3448,
+  "title": "Good Morning, Vietnam (1987)",
+  "genres": "Comedy|Drama|War"
+},
+{
+  "_id": 3449,
+  "title": "Good Mother, The (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 3458,
+  "title": "Blood and Sand (Sangre y Arena) (1989)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3459,
+  "title": "Gothic (1986)",
+  "genres": "Drama|Horror"
+},
+{
+  "_id": 3465,
+  "title": "That's Life! (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 3476,
+  "title": "Jacob's Ladder (1990)",
+  "genres": "Horror|Mystery|Thriller"
+},
+{
+  "_id": 3478,
+  "title": "Bamba, La (1987)",
+  "genres": "Drama"
+},
+{
+  "_id": 3479,
+  "title": "Ladyhawke (1985)",
+  "genres": "Adventure|Fantasy|Romance"
+},
+{
+  "_id": 3480,
+  "title": "Lucas (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 3489,
+  "title": "Hook (1991)",
+  "genres": "Adventure|Fantasy"
+},
+{
+  "_id": 3491,
+  "title": "My Chauffeur (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3495,
+  "title": "Roadside Prophets (1992)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 3496,
+  "title": "Madame Sousatzka (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 3499,
+  "title": "Misery (1990)",
+  "genres": "Horror"
+},
+{
+  "_id": 3500,
+  "title": "Mr. Saturday Night (1992)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 3501,
+  "title": "Murphy's Romance (1985)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 3505,
+  "title": "No Way Out (1987)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3521,
+  "title": "Mystery Train (1989)",
+  "genres": "Comedy|Crime|Drama"
+},
+{
+  "_id": 3523,
+  "title": "Taffin (1988)",
+  "genres": "Action|Thriller"
+},
+{
+  "_id": 3525,
+  "title": "Bachelor Party (1984)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3526,
+  "title": "Parenthood (1989)",
+  "genres": "Comedy|Drama"
+},
+{
+  "_id": 3527,
+  "title": "Predator (1987)",
+  "genres": "Action|Sci-Fi|Thriller"
+},
+{
+  "_id": 3528,
+  "title": "Prince of Tides, The (1991)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3531,
+  "title": "All the Vermeers in New York (1990)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 3544,
+  "title": "Shakes the Clown (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3547,
+  "title": "Prick Up Your Ears (1987)",
+  "genres": "Drama"
+},
+{
+  "_id": 3557,
+  "title": "Jennifer 8 (1992)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3576,
+  "title": "Hidden, The (1987)",
+  "genres": "Action|Horror|Sci-Fi"
+},
+{
+  "_id": 3577,
+  "title": "Two Moon Juction (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 3608,
+  "title": "Pee-wee's Big Adventure (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3613,
+  "title": "Things Change (1988)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3614,
+  "title": "Honeymoon in Vegas (1992)",
+  "genres": "Comedy|Romance"
+},
+{
+  "_id": 3637,
+  "title": "Vagabond (Sans toit ni loi) (1985)",
+  "genres": "Drama"
+},
+{
+  "_id": 3650,
+  "title": "Anguish (Angustia) (1986)",
+  "genres": "Horror"
+},
+{
+  "_id": 3660,
+  "title": "Puppet Master (1989)",
+  "genres": "Horror|Sci-Fi|Thriller"
+},
+{
+  "_id": 3661,
+  "title": "Puppet Master II (1990)",
+  "genres": "Horror|Sci-Fi|Thriller"
+},
+{
+  "_id": 3662,
+  "title": "Puppet Master III: Toulon's Revenge (1991)",
+  "genres": "Horror|Sci-Fi|Thriller"
+},
+{
+  "_id": 3667,
+  "title": "Rent-A-Cop (1988)",
+  "genres": "Action|Comedy"
+},
+{
+  "_id": 3669,
+  "title": "Stay Tuned (1992)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3673,
+  "title": "Benji the Hunted (1987)",
+  "genres": "Adventure|Children's"
+},
+{
+  "_id": 3677,
+  "title": "Baraka (1992)",
+  "genres": "Documentary"
+},
+{
+  "_id": 3680,
+  "title": "Decline of Western Civilization Part II: The Metal Years, The (1988)",
+  "genres": "Documentary"
+},
+{
+  "_id": 3683,
+  "title": "Blood Simple (1984)",
+  "genres": "Drama|Film-Noir"
+},
+{
+  "_id": 3684,
+  "title": "Fabulous Baker Boys, The (1989)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3685,
+  "title": "Prizzi's Honor (1985)",
+  "genres": "Comedy|Drama|Romance"
+},
+{
+  "_id": 3686,
+  "title": "Flatliners (1990)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3687,
+  "title": "Light Years (1988)",
+  "genres": "Sci-Fi"
+},
+{
+  "_id": 3690,
+  "title": "Porky's Revenge (1985)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3692,
+  "title": "Class of Nuke 'Em High (1986)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 3693,
+  "title": "Toxic Avenger, The (1985)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 3694,
+  "title": "Toxic Avenger, Part II, The (1989)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 3695,
+  "title": "Toxic Avenger Part III: The Last Temptation of Toxie, The (1989)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 3696,
+  "title": "Night of the Creeps (1986)",
+  "genres": "Comedy|Horror|Sci-Fi"
+},
+{
+  "_id": 3697,
+  "title": "Predator 2 (1990)",
+  "genres": "Action|Sci-Fi|Thriller"
+},
+{
+  "_id": 3698,
+  "title": "Running Man, The (1987)",
+  "genres": "Action|Adventure|Sci-Fi"
+},
+{
+  "_id": 3699,
+  "title": "Starman (1984)",
+  "genres": "Adventure|Drama|Romance|Sci-Fi"
+},
+{
+  "_id": 3700,
+  "title": "Brother from Another Planet, The (1984)",
+  "genres": "Drama|Sci-Fi"
+},
+{
+  "_id": 3701,
+  "title": "Alien Nation (1988)",
+  "genres": "Crime|Drama|Sci-Fi"
+},
+{
+  "_id": 3704,
+  "title": "Mad Max Beyond Thunderdome (1985)",
+  "genres": "Action|Sci-Fi"
+},
+{
+  "_id": 3705,
+  "title": "Bird on a Wire (1990)",
+  "genres": "Action|Adventure|Romance|Thriller"
+},
+{
+  "_id": 3706,
+  "title": "Angel Heart (1987)",
+  "genres": "Film-Noir|Mystery|Thriller"
+},
+{
+  "_id": 3707,
+  "title": "Nine 1/2 Weeks (1986)",
+  "genres": "Drama"
+},
+{
+  "_id": 3708,
+  "title": "Firestarter (1984)",
+  "genres": "Horror|Thriller"
+},
+{
+  "_id": 3709,
+  "title": "Sleepwalkers (1992)",
+  "genres": "Horror"
+},
+{
+  "_id": 3710,
+  "title": "Action Jackson (1988)",
+  "genres": "Action|Comedy"
+},
+{
+  "_id": 3711,
+  "title": "Sarafina! (1992)",
+  "genres": "Drama"
+},
+{
+  "_id": 3712,
+  "title": "Soapdish (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3713,
+  "title": "Long Walk Home, The (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 3714,
+  "title": "Clara's Heart (1988)",
+  "genres": "Drama"
+},
+{
+  "_id": 3715,
+  "title": "Burglar (1987)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3716,
+  "title": "Fatal Beauty (1987)",
+  "genres": "Action|Crime"
+},
+{
+  "_id": 3723,
+  "title": "Hamlet (1990)",
+  "genres": "Drama"
+},
+{
+  "_id": 3727,
+  "title": "Near Dark (1987)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 3728,
+  "title": "One False Move (1991)",
+  "genres": "Thriller"
+},
+{
+  "_id": 3740,
+  "title": "Big Trouble in Little China (1986)",
+  "genres": "Action|Comedy"
+},
+{
+  "_id": 3758,
+  "title": "Communion (1989)",
+  "genres": "Drama|Sci-Fi|Thriller"
+},
+{
+  "_id": 3763,
+  "title": "F/X (1986)",
+  "genres": "Action|Crime|Thriller"
+},
+{
+  "_id": 3764,
+  "title": "F/X 2 (1992)",
+  "genres": "Action|Crime|Thriller"
+},
+{
+  "_id": 3765,
+  "title": "Hot Spot, The (1990)",
+  "genres": "Drama|Romance"
+},
+{
+  "_id": 3766,
+  "title": "Missing in Action (1984)",
+  "genres": "Action|War"
+},
+{
+  "_id": 3767,
+  "title": "Missing in Action 2: The Beginning (1985)",
+  "genres": "Action|War"
+},
+{
+  "_id": 3768,
+  "title": "Braddock: Missing in Action III (1988)",
+  "genres": "Action|War"
+},
+{
+  "_id": 3770,
+  "title": "Dreamscape (1984)",
+  "genres": "Adventure|Crime|Sci-Fi|Thriller"
+},
+{
+  "_id": 3773,
+  "title": "House Party (1990)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3774,
+  "title": "House Party 2 (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3777,
+  "title": "Nekromantik (1987)",
+  "genres": "Comedy|Horror"
+},
+{
+  "_id": 3791,
+  "title": "Footloose (1984)",
+  "genres": "Drama"
+},
+{
+  "_id": 3802,
+  "title": "Freejack (1992)",
+  "genres": "Action|Sci-Fi"
+},
+{
+  "_id": 3809,
+  "title": "What About Bob? (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3810,
+  "title": "White Sands (1992)",
+  "genres": "Drama|Thriller"
+},
+{
+  "_id": 3816,
+  "title": "Official Story, The (La Historia Oficial) (1985)",
+  "genres": "Drama"
+},
+{
+  "_id": 3819,
+  "title": "Tampopo (1986)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3837,
+  "title": "Phantasm II (1988)",
+  "genres": "Horror"
+},
+{
+  "_id": 3840,
+  "title": "Pumpkinhead (1988)",
+  "genres": "Horror"
+},
+{
+  "_id": 3841,
+  "title": "Air America (1990)",
+  "genres": "Action|Comedy"
+},
+{
+  "_id": 3844,
+  "title": "Steel Magnolias (1989)",
+  "genres": "Drama"
+},
+{
+  "_id": 3868,
+  "title": "Naked Gun: From the Files of Police Squad!, The (1988)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3869,
+  "title": "Naked Gun 2 1/2: The Smell of Fear, The (1991)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3877,
+  "title": "Supergirl (1984)",
+  "genres": "Action|Adventure|Fantasy"
+},
+{
+  "_id": 3917,
+  "title": "Hellraiser (1987)",
+  "genres": "Horror"
+},
+{
+  "_id": 3918,
+  "title": "Hellbound: Hellraiser II (1988)",
+  "genres": "Horror"
+},
+{
+  "_id": 3919,
+  "title": "Hellraiser III: Hell on Earth (1992)",
+  "genres": "Horror"
+},
+{
+  "_id": 3925,
+  "title": "Stranger Than Paradise (1984)",
+  "genres": "Comedy"
+},
+{
+  "_id": 3937,
+  "title": "Runaway (1984)",
+  "genres": "Sci-Fi|Thriller"
+},
+{
+  "_id": 3939,
+  "title": "Slumber Party Massacre II, The (1987)",
+  "genres": "Horror"
+},
+{
+  "_id": 3940,
+  "title": "Slumber Party Massacre III, The (1990)",
+  "genres": "Horror"
+},
+{
+  "_id": 3941,
+  "title": "Sorority House Massacre (1986)",
+  "genres": "Horror"
+},
+{
+  "_id": 3942,
+  "title": "Sorority House Massacre II (1990)",
+  "genres": "Horror"
+}]
